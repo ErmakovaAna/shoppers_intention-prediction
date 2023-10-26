@@ -10,9 +10,14 @@
 🧐 **Интерпретация моделей**: анализ результатов работы моделей и интерпретация влияния признаков на прогнозы
 
 
----
+
      
 
     
 ### Ссылки
 - Sakar,C. and Kastro,Yomi. (2018). Online Shoppers Purchasing Intention Dataset. UCI Machine Learning Repository. https://doi.org/10.24432/C5F88Q
+---
+
+
+##### Email: ermakova.9999@mail.ru
+##### Telegram: [@anaermakova]()
